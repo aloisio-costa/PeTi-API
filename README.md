@@ -1,5 +1,5 @@
 # What is it?
-This project is the API of my PeTi-React project. You can find it here https://github.com/aloisio-costa/PeTi-react-.net
+This project is the API of my PeTi-React project. You can find it here https://github.com/aloisio-costa/PeTi_React
 
 ### What did I use?
 - Entity Framework Core
