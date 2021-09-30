@@ -1,2 +1,16 @@
-# PeTi-API
-This project is the API of https://github.com/aloisio-costa/PeTi-react-.net
+# What is it?
+This project is the API of my PeTi-React project. You can find it here https://github.com/aloisio-costa/PeTi-react-.net
+
+### What did I use?
+**.Net API**
+-Entity Framework Core
+-Swagger
+-SQL server
+-Postman for testing
+
+#
+The project is still in development, I make changes frequently as I can or as I evolve as a developer and 
+learn new things I can implement in it.
+
+### Note:
+- The API needs a lot of work yet, I did it as simple as possible to have something work with my client side
